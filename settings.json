@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "itsAfk",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "LikeTatti.aternos.me",
